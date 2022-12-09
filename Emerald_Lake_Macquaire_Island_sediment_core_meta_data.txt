@@ -1,24 +1,36 @@
 Title
+
 Updates to proxy data from Emerald Lake, Macquarie Island.
 
 Abstract
-The dataset comprises of updated proxy data from the Emerald Lake sediment record on Macquarie Island. Core scanning (ITRAX XRF) and multispectral data (SPECIM) originally published in Saunders et al. (2018) have been updated to the 2020 radiocarbon calibration curve. 
+
+The dataset comprises of updated proxy data from the Emerald Lake sediment record on Macquarie Island. Core scanning (ITRAX XRF) and multispectral data (SPECIM) originally published in Saunders et al. (2018) have been updated to the 2020 radiocarbon calibration curve. Updates are published in:
+
+Heredia Barión P, Roberts SJ, Spiegel C, Binnie SA, Wacker L, Davies J, et al. (in review) Holocene deglaciation and glacier readvances on the Fildes Peninsula, King George Island, NW Antarctic Peninsula. The Holocene. https://doi.org/10.31223/X59S7S 
+
+Heredia Barión P, Strelin JA, Roberts SJ, Spiegel C, Wacker L, Niedermann S, et al. (in press). Holocene deglaciation, glacial dynamics and the geomorphology of Potter Peninsula, King George Island (Isla 25 de Mayo), NW Antarctic Peninsula. Frontiers in Earth Science. https://doi.org/10.31223/X5606J 
 
 Funding source
+
 See Saunders et al. (2018) for original funding sources
 
 Keywords
+
 Radiocarbon dating; Macquarie Island, lake sediments
 
 Personnel
+
 Data collectors & analysts (ORCID code)
+
 Stephen J. Roberts1 (0000-0001-5542-3703) – data collection and analysis
 Krystyna Saunders2 – data collection and analysis
 
 Affiliations
+
 1British Antarctic Survey, Natural Environment Research Council, High Cross, Madingley Road, Cambridge, CB3 0ET, UK.
 2Institute of Geography and Oeschger Centre for Climate Change Research, University of Bern, Bern, Switzerland
 3Australian Nuclear Science and Technology Organisation, Sydney, Australia
+
 Lineage/methodology
 
 A series of lake sediment cores dating back to c. 12.1 ka BP were extracted from Emerald Lake on the west coast of sub-Antarctic Macquarie Island. We applied three independent methods to reconstruct past changes in SHW intensity. 
@@ -30,42 +42,59 @@ We have updated the age depth model in Saunders et al. (2018) and applied this u
 
 Instrumentation
 
-None – data reanalysis 
+N/A
 
 Quality
 
 Age data includes minimum and maximum 95% confidence interval ranges. 
 
 Related datasets
+
 Chronostratigraphic data from the Fildes Peninsula, South Shetland Islands.
+
 Compilation data from the Fildes Peninsula, South Shetland Islands.
+
 Data from Kiteschsee Lake, Fildes Peninsula, South Shetland Islands, northern Antarctic Peninsula.
+
 Chronological and sedimentological data from stratigraphic sections on Potter Peninsula, South Shetland Islands.
-Chronological, geochemical and sedimentological data from a lake sediment record extracted from Lake L5 (Matias Lake) on Potter Peninsula, South Shetland Islands.
+
+Chronological, geochemical and sedimentological data from a lake sediment record extracted from Lake 
+L5 (Matias Lake) on Potter Peninsula, South Shetland Islands.
+
 Chronological, geochemical and sedimentological data from a lake sediment record extracted from Lake L15 (GPS Lake) on Potter Peninsula, South Shetland Islands.
 
 Related URLs
+
 Code is available on: https://github.com/stever60/Macquarie_Island 
 
 Temporal coverage
+
 Cores were extracted and data collected between November 2006 and 2013; data covers the last ~12,000  years
 
 Spatial coverage
+
 Macquarie Island
+
 Resolution
+
 N/A
 
 Location
-Fildes Peninsula, South Shetland Islands
-Emerald Lake is located at 62° 13.243’ S, 58° 57.591’ W
+
+Emerald Lake is located at 54.54653°S, 158.8809°E, altitude 175 m
 
 References
 
 Blaauw M and Christen JA. (2011) Flexible paleoclimate age-depth models using an autoregressive gamma process. Bayesian Analysis 6: 457-474.
 
+Heredia Barión P, Roberts SJ, Spiegel C, Binnie SA, Wacker L, Davies J, et al. (in review) Holocene deglaciation and glacier readvances on the Fildes Peninsula, King George Island, NW Antarctic Peninsula. The Holocene. https://doi.org/10.31223/X59S7S 
+
+Heredia Barión P, Strelin JA, Roberts SJ, Spiegel C, Wacker L, Niedermann S, et al. (in press). Holocene deglaciation, glacial dynamics and the geomorphology of Potter Peninsula, King George Island (Isla 25 de Mayo), NW Antarctic Peninsula. Frontiers in Earth Science. https://doi.org/10.31223/X5606J 
+
 Saunders, K.S., Roberts, S.J., Hodgson, D.A., et al., (2018). Holocene dynamics of the Southern Hemisphere westerly winds: possible links to CO2 outgassing. Nature Geoscience, 11 650-655. https://doi.org/10.1038/s41561-018-0186-5 
 
 Data structure and data format
+
 Age_depth_model folder – input and output txt and csv files for 2020 calibration age-depth modelling runs from the Emerald Lake record
 
 Core_data folder
@@ -74,9 +103,11 @@ Emerald_Lake_ITRAX_XRFCS.csv – XRF core scanning data (updated to 2020 calibra
 Emerald_Lake_SPECIM.csv – multispectral core scanning data (updated to 2020 calibration/age model)
 
 Access constraints
-None after publication but a log in for reviewers to access an embargoed dataset is needed.
+
+None after publication
 
 Use constraints
+
 NERC-funded data, so the Open Government Licence applies.
 
 
